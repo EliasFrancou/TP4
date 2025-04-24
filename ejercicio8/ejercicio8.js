@@ -1,4 +1,4 @@
-//esta dudoso este ejercicio
+
 const dispositivos = [ 
     { id: 1, nombre: "PC-Desarrollo", ip: "192.168.1.5", tipo: "Estación de trabajo" }, 
     { id: 2, nombre: "PC-Marketing", ip: "192.168.1.7", tipo: "Estación de trabajo" }, 
